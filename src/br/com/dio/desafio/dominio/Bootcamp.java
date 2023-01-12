@@ -68,3 +68,4 @@ public class Bootcamp {
         return Objects.hash(nome, descricao, dataInicial, dataFinal, devsInscritos, conteudos);
     }
 }
+
