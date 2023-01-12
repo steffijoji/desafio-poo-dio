@@ -1,4 +1,4 @@
-# Projeto: Desafio POO
+# Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 Desafio de Projeto do bootcamp **GFT Quality Assurance Para Mulheres**, disponibilizado pela plataforma **DIO**
 
